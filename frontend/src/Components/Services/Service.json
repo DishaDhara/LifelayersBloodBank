@@ -1,0 +1,97 @@
+{
+    "Service":[
+        {
+            "service_name":"Blood Group Details",
+            "service_id":"S1",
+            "desc":"Know about different Blood Group",
+            "sub_service":[
+                {
+                    "s_id":"S01",
+                    "s_name":"O+",
+                    "s_details":"Blood group O has no antigens, but both anti-A and anti-B antibodies in the plasma.",
+                    "sub_details":"38% of the population has O positive blood, making it the most common blood type.",
+                    "sub_img1":"../../../../../blgrp.png"
+                 },
+                 {
+                    "s_id":"S02",
+                    "s_name":"A+",
+                    "s_details":"A+ blood contains both A and Rh antigens.Anti-B antibodies in the plasma.",
+                    "sub_details":"Around 30% of donors have A positive blood, making it the second most common blood type after O positive (36%).",
+                    "sub_img1":"../../../../../blgrp.png"
+                 },
+                 {
+                    "s_id":"S03",
+                    "s_name":"AB+",
+                    "s_details":" Blood group AB has both A and B antigens, but no antibodies.",
+                    "sub_details":"6% of the population has AB positive blood, making it the least blood type.",
+                    "sub_img1":"../../../../../blgrp.png"
+                 },
+                 {
+                    "s_id":"S04",
+                    "s_name":"B+",
+                    "s_details":"Blood group B has B antigens with anti-A antibodies in the plasma.",
+                    "sub_details":"About 9% of the population have B positive blood. B positive red blood cells can be given to both B positive and AB positive patients.",
+                    "sub_img1":"../../../../../blgrp.png"
+                 }
+
+            ]
+        },
+          { "service_name":"Donor & Donation Camp",
+            "service_id":"S2",
+            "desc":"Know about different Blood Group",
+            "sub_service":[
+                {
+                    "s_id":"S11",
+                    "s_name":"Donor",
+                    "s_details":"Donor can come our center for donating blood or from home also possible",
+                    "sub_details":"What You need to do just register from our website to confirm us",
+                    "sub_img1":"../../../../../blgrp.png"
+                 },
+                 {
+                    "s_id":"S12",
+                    "s_name":"Donation Camp",
+                    "s_details":"Any club or any organization can arrange blood donation camp",
+                    "sub_details":"What you need do knowing us by registered in our website about details",
+                    "sub_img1":"../../../../../blgrp.png"
+                 }
+            ]
+          },
+          {
+            "service_name":"Patients user",
+            "service_id":"S3",
+            "desc":"Connect with we will save your live",
+            "sub_service":[
+                {
+                    "s_id":"S21",
+                    "s_name":"Blood requirement",
+                    "s_details":"Our stock is always ready to serve blood to needy patient at the right time",
+                    "sub_details":"What  you need to do register in our website to get in touch",
+                    "sub_img1":"../../../../../blgrp.png"
+                 }
+            ]
+        },
+          { "service_name":"Hospitals Details",
+            "service_id":"S4",
+            "desc":"Hospital can also collect blood from us",
+            "sub_service":[
+                {
+                    "s_id":"S31",
+                    "s_name":"Emergency Need",
+                    "s_details":"In Emergency We serve blood our near by hospitals",
+                    "sub_details":"What  you need to do register in our website to know more",
+                    "sub_img1":"../../../../../blgrp.png"
+                 },
+                 {
+                    "s_id":"S32",
+                    "s_name":"Hospital Blood Stock Up",
+                    "s_details":"We share our blood bank stock to hospital",
+                    "sub_details":"Register in our website to get stock from us and get in touch",
+                    "sub_img1":"../../../../../blgrp.png"
+                 }
+                 
+             ]
+          }
+
+
+        ]
+    }
